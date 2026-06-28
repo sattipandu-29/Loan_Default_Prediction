@@ -161,6 +161,4 @@ Store the images inside the **images/** folder and reference them here.
 
 **PANDU**
 
-B.Tech – Computer Science and Engineering
-
 Major Project: Loan Default Prediction Using Machine Learning
